@@ -1,0 +1,9 @@
+form { margin: auto;   border: 2px; text-align: center; padding:90px;  background-color:skyblue ;   width: auto;  height: auto;   }
+h2{text-align: center; font-family: Verdana, Geneva, Tahoma, sans-serif; font-size: 50px; color: rgb(153, 12, 90); stroke-width: 0cqmin;            width: auto; height: auto;  }
+label{font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;  font-size: x-large; color: rgb(235, 12, 131);  }    
+body{background: #EEAECA;
+background: radial-gradient(circle, rgba(238, 174, 202, 1) 0%, rgba(148, 187, 233, 1) 100%);}
+div{font-size: x-large;}
+input{font-size: x-large; color: rgb(9, 23, 36);   }
+#vishal{  font-family: 'Times New Roman', Times, serif; color: blueviolet;  }
+#vishal2{font-family: 'Times New Roman', Times, serif;}
