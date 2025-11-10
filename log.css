@@ -1,0 +1,22 @@
+form { margin: 0%;   border: 2px; text-align: center; padding:90px;  background-color:skyblue ;   width: auto;  height: auto; background-image: url(https://i.ibb.co/Fbg4KybW/1000209280.jpgf); background-size: contain;  }
+/* */
+
+h2{text-align: center;font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; font-size: 50px; color: rgb(#00ffff); stroke-width: 0cqmin;            width: auto; height: auto;  text-shadow: 0 0 15px #00ffff;  letter-spacing: 2px;  }
+/* */
+
+label{font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;  font-size: x-large; color: rgb(#00bfff);   font-weight: bold;  }   
+/* */
+
+body{ background-image: url(https://i.ibb.co/nsbj2Y4K/1000209469.jpg);  background-size: cover; background-repeat: no-repeat ;     }
+/* */
+
+div{font-size: x-large;}
+
+input{font-size: x-large;   border: 1px solid; border-radius: 8px; padding: 10px;  width: 220px; margin-bottom: 10px;   }
+#vishal{  font-family: 'Times New Roman', Times, serif; color: rgb(#00bfff);  }
+#vishal2{font-family: 'Times New Roman', Times, serif;}
+div{transform: matrix3d(90px); transition: all;  color: aqua;    }
+#vishal90{transform: matrix3d(90);   transition: 0ms;     }
+#visha99{background-image: url(https://i.ibb.co/Fbg4KybW/1000209280.jpg.avif);}
+#vishalvb{background: contain;  background-repeat: no-repeat;  height: auto; width: auto;   padding: 0%;  }
+.vbk{background: linear-gradient(90deg,#007cf0,#00dfd8); padding: 10px 20px ; font-weight: bold; cursor: pointer; transition: 0.3s ease-in-out; }
